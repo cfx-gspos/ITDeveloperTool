@@ -1,1 +1,5 @@
+Q 虚拟机server  2012 r2 可以ping局域网的机器，但是其他机器不能ping虚拟机
+A 关闭防火墙即可
 
+Q 不能远程桌面
+A 打开远程桌面即可 System Property>Allow remote connection.
