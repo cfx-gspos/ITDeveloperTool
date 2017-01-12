@@ -3,3 +3,6 @@ A 关闭防火墙即可
 
 Q 不能远程桌面
 A 打开远程桌面即可 System Property>Allow remote connection.
+
+Q共享虚拟机磁盘
+A需要安装增强
